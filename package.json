@@ -1,0 +1,19 @@
+{
+  "name": "jdeselms-hello-world",
+  "version": "1.0.0",
+  "description": "My first attempt at an NPM module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimdeselms/jdeselms-hello-world.git"
+  },
+  "author": "Jim DeSelms",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimdeselms/jdeselms-hello-world/issues"
+  },
+  "homepage": "https://github.com/jimdeselms/jdeselms-hello-world#readme"
+}
